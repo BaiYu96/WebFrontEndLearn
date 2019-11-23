@@ -1,0 +1,14 @@
+/* .是class 选择器，用来匹配相同class类的标签 */
+.titleName {
+    color: yellow;
+    font-size: 35px;
+}
+/* #号是id 选择器， 用来匹配id名称的标签 */
+#introduction {
+    color: blue;
+    font-size:24px;
+}
+/* 也可以直接选中标签*/
+p{
+  color:pink ;  
+}
